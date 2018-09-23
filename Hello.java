@@ -3,5 +3,7 @@ public class Hello{
 		System.out.println("hello, man"); 
 		
 		System.out.println("world, www.hello.jerry zhang yufei");
+		System.out.println("jerry");
+		System.out.println("yufei");
 		}
 	}
